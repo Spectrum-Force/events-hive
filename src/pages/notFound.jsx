@@ -1,8 +1,12 @@
-
+// import navbar from "./assets/navbar.png"
 
 const NotFound = () => {
   return (
-    <div>NotFound</div>
+    <div>
+      <div>
+        <img src="" alt="" />
+      </div>
+    </div>
   )
 }
 

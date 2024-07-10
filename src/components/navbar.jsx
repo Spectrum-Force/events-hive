@@ -1,8 +1,10 @@
-
+import navbar from "../assets/images/navbar.png"
 
 const Navbar = () => {
   return (
-    <div>Navbar</div>
+    <div>
+      <img src={navbar}alt="Navbar" />
+    </div>
   )
 }
 

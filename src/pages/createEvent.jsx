@@ -1,8 +1,11 @@
-
+import SearchForm from "../components/SearchForm"
 
 const CreateEvent = () => {
   return (
-    <div>CreateEvent</div>
+    <div>
+
+      <SearchForm/>
+    </div>
   )
 }
 
